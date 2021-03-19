@@ -1,14 +1,14 @@
-This is a nodejs module that lets you execute brainfuck natively in your main .js file.
+This is a python module that lets you execute brainfuck natively in your main .py file.
 
 example:
 
-```JavaScript
-require("./fuck.js");
+```Python
+require fuck
 
-/*
+"""
 
 execute brainfuck as if it's native!
 ++++++>+>+.<<[>[->+>+<<]>[-<+>]>[-<+>]<.<<-]
 
-*/
+"""
 ```
