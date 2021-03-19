@@ -3,7 +3,7 @@ This is a python module that lets you execute brainfuck natively in your main .p
 example:
 
 ```Python
-require fuck
+import pybf
 
 """
 
