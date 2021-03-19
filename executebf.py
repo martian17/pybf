@@ -1,7 +1,6 @@
 
 
 def executebf(bf):
-    print(bf)
     out = ""
     hexs = "0123456789ABCDEF"
     stack = [0]
